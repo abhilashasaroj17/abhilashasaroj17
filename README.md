@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhilashasaroj17
+- 👋 Hi, I’m @abhilashasaroj17, I am a research Scientist at oak Ridge National Laboratory. I did my PhD amd MS in Civil and Environemntal Engineering from Georgia Tech and my Bachelor's in Civil Engineering from Indian Institute of Technology Bombay, India.
 - 👀 I’m interested in transportation systems modeling, traffic simulation, transportation statistics, artificial intelligence, and large language models
 - 🌱 I’m currently learning automating traffic micro-simulation model development, scaling large network simulations, learning application of AI and LLMs to improve transportation modeling and predictability 
 - 💞️ I’m looking to collaborate on application on AI, Gen AI and LLMs 
