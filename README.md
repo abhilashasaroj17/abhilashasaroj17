@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on application on AI, Gen AI and LLMs 
 - 📫 How to reach me: Reach my personal email: abhilashasaroj.genuine@gmail.com 
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I lost access to[my prev GitHub account](https://github.com/abhilashasaroj)
+- ⚡ Fun fact: I lost access to [my prev GitHub account](https://github.com/abhilashasaroj)
 
 <!---
 abhilashasaroj17/abhilashasaroj17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
